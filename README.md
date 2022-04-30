@@ -1,6 +1,7 @@
 # Employee-Attrition-Prediction 
  
-- In this project, we perform a complete machine learning work flow from data exploratory and feature engineering to build different machine learning models and evaluate model performances to predict if an employee will leave his/her current employer and analyze what features will mainly affect employee's attrition activity. 
+- In this project, I perform a complete machine learning work flow from data exploratory and feature engineering to build different machine learning models and evaluate model performances to predict if an employee will leave his/her current employer and analyze what features will mainly affect employee's attrition activity.  
+- Achieved good accuracy on the dataset, using Logistic Regression with Hyperparameter Optimization.
  
 # Contents of the Project 
 - Exploratory data analysis
@@ -11,7 +12,7 @@
 
 - Model optimization
 
-- Machine Learning Model Deployment using FastAPI 
+- Machine Learning Model Deployment using FastAPI ([API Link - Employee Attrition](https://dsbootcamp-fulden.herokuapp.com/))
 
 >This is a project for "Artificial Intelligence Course" organized by BTK Academy.  
 >Instructors: Emre Tolga Ayan, Muhammed Said Zengin 
